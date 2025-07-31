@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+.sizes{
+	border: 1px solid black;
+}
+.coloring{
+	background-color: indianred;
+	color: white;
+}
+.text{
+	color: white;
+	background-color: lightpink;
+}
+.two{
+	background-color: lightblue;
+}
